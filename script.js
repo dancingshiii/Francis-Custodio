@@ -1,13 +1,14 @@
 // 1.
 var name = "Francis Custodio";
-console
+console.log(name);
 
 // 2.
 let age = "20";
 console.log(age);
-
 // 3.
-const PI - 3.1416;
+const PI = 3.1416;
+// PI = 3.14;
+console.log(PI);
 
 // 4.
 let isStudent = Number(age) < 25;
